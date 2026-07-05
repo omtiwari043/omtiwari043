@@ -57,22 +57,11 @@ https://github.com/omtiwari043/ArthSaathi
 https://arthsaathibyspg.netlify.app/
 
 ---
----
 
 ## 💻 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,mysql,git,github,vscode" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=omtiwari043&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -80,7 +69,10 @@ https://arthsaathibyspg.netlify.app/
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omtiwari043&theme=tokyo-night"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=omtiwari043&theme=tokyo-night&hide_border=true"
+    width="95%"
+  />
 </p>
 
 ---
@@ -88,14 +80,13 @@ https://arthsaathibyspg.netlify.app/
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/om-tiwari-b9226b287">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+  <a href="https://linkedin.com/in/om-tiwari-b9226b287">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
 
-<a href="https://github.com/omtiwari043">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
+  <a href="https://github.com/omtiwari043">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
 </p>
 
 ---
