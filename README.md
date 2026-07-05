@@ -28,12 +28,56 @@
 </p>
 
 ---
+# 💼 Featured Projects
+
+## 🚆 RailYatra 🏆
+### 🥇 1st Position Winner — IIT Jammu Hackathon
+
+A modern railway booking platform designed to simplify train travel with an intuitive and user-friendly experience.
+
+### ✨ Highlights
+
+- 🎖️ Secured **1st Position** at the **IIT Jammu Hackathon**
+- 🚉 Modern railway booking interface
+- 🔍 Train search and availability
+- 🎫 PNR status & booking workflow
+- 📱 Fully responsive UI
+- 🎨 Clean and user-centric design
+
+🔗 **Repository:**  
+https://github.com/omtiwari043/Railyatra
+
+🌐 **Live Demo:**  
+https://railyatrabyspg.vercel.app/
+
+---
+
+## 💰 ArthSaathi 🤖
+
+An AI-powered personal finance assistant that helps users manage expenses, track budgets, and gain financial insights.
+
+### ✨ Highlights
+
+- 🤖 AI-powered financial assistant
+- 📊 Expense tracking and budgeting
+- 📈 Smart financial insights
+- 💳 User-friendly dashboard
+- 🔒 Secure data management
+
+🔗 **Repository:**  
+https://github.com/omtiwari043/ArthSaathi
+
+🌐 **Live Demo:**  
+https://arthsaathibyspg.netlify.app/
+
+---
+---
 
 ## 💻 Tech Stack
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,express,mysql,sqlite,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,mysql,git,github,vscode" />
 
 </p>
 
