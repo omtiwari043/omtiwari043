@@ -14,20 +14,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/om-tiwari-b9226b287">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://github.com/omtiwari043">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-
-</p>
-
----
 # 💼 Featured Projects
 
 ## 🚆 RailYatra 🏆
@@ -95,6 +81,21 @@ https://arthsaathibyspg.netlify.app/
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtiwari043&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/om-tiwari-b9226b287">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/omtiwari043">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
 </p>
 
 ---
