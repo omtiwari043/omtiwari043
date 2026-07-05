@@ -8,7 +8,7 @@
 
 - 🎓 B.Tech Computer Science & Engineering @ ABES Engineering College
 - 🌱 Currently learning **Full Stack Development, AI/ML & Data Structures**
-- 💻 Passionate about Backend Development and Problem Solving
+- 💻 Passionate about Development and Problem Solving
 - 🚀 Building real-world projects
 - 🧩 Solving DSA problems regularly
 - 📫 Reach me at **omtiwari043@gmail.com**
