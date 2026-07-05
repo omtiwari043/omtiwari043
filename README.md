@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Om Tiwari</h1>
-<h3 align="center">3rd Year B.Tech CSE Student | Full Stack Developer | AI/ML Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=4FC3F7&center=true&vCenter=true&width=1000&lines=Hey+There+👋+I'm+Om+Tiwari;3rd+Year+B.Tech+CSE+Student;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Development+%7C+Problem+Solver+%7C+Open+Source;Building+Real-World+Projects+🚀" />
+</p>
 
 ---
 
