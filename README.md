@@ -99,3 +99,10 @@ https://arthsaathibyspg.netlify.app/
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/omtiwari043/omtiwari043/output/github-snake-dark.svg" alt="Snake Animation" />
+</p>
