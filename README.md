@@ -99,7 +99,6 @@ https://arthsaathibyspg.netlify.app/
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
----
 
 ## 🐍 Contribution Snake
 
