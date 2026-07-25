@@ -18,7 +18,7 @@
 # 💼 Featured Projects
 
 ## 🚆 RailYatra 🏆
-### 🥇 1st Position Winner — IIT Jammu Hackathon
+### 🥇 1st Position — IIT Jammu Hackathon
 
 A modern railway booking platform designed to simplify train travel with an intuitive and user-friendly experience.
 
