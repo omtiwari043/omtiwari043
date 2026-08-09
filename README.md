@@ -29,7 +29,7 @@ A modern railway booking platform designed to simplify train travel with an intu
 - 🔍 Train search and availability
 - 🎫 PNR status & booking workflow
 - 📱 Fully responsive UI
-- 🎨 Clean and user-centric design
+- 🎨 Clean and user-centric design.
 
 🔗 **Repository:**  
 https://github.com/omtiwari043/Railyatra
