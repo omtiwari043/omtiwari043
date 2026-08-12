@@ -18,7 +18,7 @@
 # 💼 Featured Projects
 
 ## 🚆 RailYatra 🏆
-### 🥇 1st Position — IIT Jammu Hackathon(Redesign Anhad 2026)
+### 🥇 1st Position — IIT Jammu Hackathon (Redesign Anhad 2026)
 
 A modern railway booking platform designed to simplify train travel with an intuitive and user-friendly experience.
 
