@@ -83,7 +83,7 @@ https://arthsaathibyspg.netlify.app/
 <p align="left">
   <a href="https://linkedin.com/in/om-tiwari-b9226b287">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
+  </a> 
 
   <a href="https://github.com/omtiwari043">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
