@@ -15,7 +15,7 @@
 
 ---
 
-# 💼 Featured Projects
+# 💼 Featured Projects. 
 
 ## 🚆 RailYatra 🏆
 ### 🥇 1st Position — IIT Jammu Hackathon (Redesign Anhad 2026)
