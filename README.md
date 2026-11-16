@@ -13,7 +13,7 @@
 - 🧩 Solving DSA problems regularly  
 - 📫 Reach me at **omtiwari043@gmail.com**. 
 
----
+--
 
 # 💼 Featured Projects. 
 
