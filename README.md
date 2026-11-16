@@ -11,7 +11,7 @@
 - 💻 Passionate about Development and Problem Solving
 - 🚀 Building real-world projects
 - 🧩 Solving DSA problems regularly  
-- 📫 Reach me at **omtiwari043@gmail.com**
+- 📫 Reach me at **omtiwari043@gmail.com**. 
 
 ---
 
